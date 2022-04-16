@@ -1,0 +1,55 @@
+
+.grid {
+    height: 180px;
+    width: 180px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.grid div {
+    height: 20px;
+    width: 20px;
+}
+
+.ending-block {
+    background-color: red;
+
+}
+
+.starting-block {
+    background-color: blue;
+}
+
+.frog {
+    background-image: url('excitedFrog.png');
+}
+.sadFrog {
+    background-image: url('sadFrog.png');
+}
+
+.happyFrog {
+    background-image: url('happyFrog.png');
+}
+
+.l1, .l2, .l3 {
+    background-color: brown;
+}
+
+.l4, .l5 {
+    background-color: lightblue;
+}
+
+.c1 {
+    background-color: rgb(43, 41, 41);
+}
+
+.c2, .c3 {
+    background-color: lightgray;
+}
+
+/* 
+Frog images created by 
+Image by <a href="https://pixabay.com/users/alluregraphicdesign-945398/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1174076">alluregraphicdesign</a>from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1174076">Pixabay</a>
+*/
